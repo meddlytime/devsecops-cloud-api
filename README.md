@@ -6,6 +6,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Docker](https://img.shields.io/badge/Docker-Alpine_Hardened-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![Security](https://img.shields.io/badge/Vulnerabilities-0_Critical-brightgreen?style=for-the-badge&logo=docker)](https://scout.docker.com)
+[![DevSecOps CI/CD Pipeline](https://github.com/meddlytime/devsecops-cloud-api/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/meddlytime/devsecops-cloud-api/actions)
 
 **API RESTful assíncrona focada em hardening de contêineres, arquitetura resiliente e boas práticas de DevSecOps.**
 
